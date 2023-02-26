@@ -1,0 +1,76 @@
+champ-select:
+    data:
+        skins:
+            17: 17000
+            44: 44000
+        spells:
+            430:
+            - 21
+            - 4
+    schemaVersion: 1
+emotes:
+    data:
+        newEmotes:
+        - 3166
+    schemaVersion: 1
+lol-champ-select:
+    data:
+        reportAndMutingTooltipShown: true
+    schemaVersion: 0
+lol-general:
+    data:
+        uploadCrashReports: true
+    schemaVersion: 0
+lol-notifications:
+    data:
+        disableCollectionsNotifications: true
+        disableEsportsNotifications: true
+        rgmNotificationTimestamp: 1633854207972
+    schemaVersion: 1
+lol-npe-first-touch:
+    data:
+        modeSelected: "summoners-rift"
+    schemaVersion: 1
+lol-npe-rewards:
+    data:
+        challenges:
+            allMissionsCompleted: false
+            totalCount: 8
+        login:
+            allRewardsClaimed: false
+            lastCompletedMissionDate: 1634405127000
+            lastCompletedMissionInternalName: "npe_rewards_login_v1_step2"
+    schemaVersion: 1
+lol-npe-tutorial-path:
+    data:
+        hasSeenTutorialPath: true
+        hasSkippedTutorialPath: true
+        shouldSeeNewPlayerExperience: true
+    schemaVersion: 1
+lol-parties:
+    data:
+        hasSeenOpenPartyFirstExperience: true
+        hasSeenOpenPartyTooltip: true
+    schemaVersion: 1
+lol-player-behavior:
+    data:
+        codeOfConductAccepted: true
+    schemaVersion: 0
+lol-premade-voice:
+    data:
+        autoJoin: false
+        inputMode: "voiceActivity"
+        muteOnConnect: false
+        pushToTalkKey: "[<Unbound>]"
+        showFirstExperienceInGame: false
+        showFirstExperienceInLCU: false
+    schemaVersion: 1
+lol-tft:
+    data:
+        previouslySeenSeasons: "TFT5_5_Series"
+    schemaVersion: 1
+lol-tutorial:
+    data:
+        championSelectRunesTooltipSeenCount: 9
+        npeRewardsV1IntroSeen: true
+    schemaVersion: 1

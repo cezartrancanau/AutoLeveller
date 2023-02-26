@@ -1,0 +1,75 @@
+GeoInfo:
+    data:
+        city: "lol"
+        country: "lol"
+        region: "lol"
+    schemaVersion: 1
+lol-audio:
+    data:
+        musicVolume: 0
+    schemaVersion: 5
+lol-clash:
+    data:
+        simpleStateFlagIds:
+        - "lock_in_open_tournament_3221_phase_3341"
+        - "registration_open_tournament_3081"
+        - "registration_open_tournament_3221"
+        - "lock_in_open_tournament_3121_phase_3241"
+        - "registration_open_tournament_3141"
+        - "lock_in_open_tournament_3081_phase_3201"
+        - "registration_open_tournament_3101"
+        - "lock_in_open_tournament_3101_phase_3221"
+        - "lock_in_open_tournament_3201_phase_3181"
+        - "lock_in_open_tournament_3141_phase_3261"
+        - "registration_open_tournament_3121"
+        - "registration_open_tournament_3161"
+        - "lock_in_open_tournament_3161_phase_3281"
+        - "registration_open_tournament_3181"
+        - "lock_in_open_tournament_3181_phase_3301"
+        - "lock_in_open_tournament_3861_phase_4021"
+        - "registration_open_tournament_3201"
+        - "registration_open_tournament_3841"
+        - "lock_in_open_tournament_3201_phase_3321"
+        - "registration_open_tournament_3241"
+        - "registration_open_tournament_3281"
+        - "lock_in_open_tournament_3181_phase_3161"
+        - "lock_in_open_tournament_3121_phase_3101"
+        - "lock_in_open_tournament_3141_phase_3121"
+        - "lock_in_open_tournament_3161_phase_3141"
+        - "registration_open_tournament_3321"
+        - "registration_open_tournament_3142"
+        - "lock_in_open_tournament_3142_phase_3122"
+        - "lock_in_open_tournament_3221_phase_3201"
+        - "lock_in_open_tournament_3241_phase_3221"
+        - "registration_open_tournament_3261"
+        - "registration_open_tournament_3861"
+        - "registration_open_tournament_3881"
+        - "registration_open_tournament_3282"
+    schemaVersion: 1
+lol-home:
+    data:
+        useTFTOverride: false
+    schemaVersion: 0
+lol-parties:
+    data:
+        permanentHideAutofillModal: true
+    schemaVersion: 1
+lol-premade-voice:
+    data:
+        currentCaptureDeviceHandle: "Default System Device"
+        inputVolume: 90
+        vadSensitivity: 0
+    schemaVersion: 1
+lol-replays:
+    data:
+        dontShowEogUsageTip: true
+    schemaVersion: 1
+lol-user-experience:
+    data:
+        potatoModeEnabled: true
+        unloadLeagueClientUx: "always"
+    schemaVersion: 3
+video:
+    data:
+        ZoomScale: 1
+    schemaVersion: 1

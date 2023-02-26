@@ -1,0 +1,1 @@
+Please leave this file unchanged, the bot checks if it exists before running to make sure that the config folder was patched and all the right settings are applied!
