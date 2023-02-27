@@ -52,6 +52,6 @@
 
 
 ## Note
-<p align="center">This was made **only for season 12** and might not work correctly in later seasons due to many image and color changes from start of each season. 
+<p align="center">This was made <b>only for season 12</b> and might not work correctly in later seasons due to many image and color changes from start of each season. 
 I am not planning to update it any time soon. However, if you change some small things, you can make it work perfectly for new seasons as well. 
 </p>
